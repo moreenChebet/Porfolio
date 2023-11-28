@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: beige;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.grid-container1{
+    display: grid;
+    text-wrap: ;
+}
+
+input{
+    width: 300px;
+    height: 20px;
+}
+
+textarea{
+    width: 300px;
+    height: 30px;
+}
+
+#QueryForm{
+    margin-left: 5%;
+}
+
+/* Styling the footer */
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  a{
+    color: white;
+    display: inline ;
+  }

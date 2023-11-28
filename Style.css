@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+/* nav menu */
+nav{
+  background-color: #666;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* don't display menu */
+.menu-icon{
+  display: none;
+}
+
+/* menu styling */
+.menu{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.menu a{
+  text-decoration: none;
+  color: white;
+}
+
+/* body{
+    background-image: url(./Assets/Gr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+} */
+
+body{
+  background-color: aliceblue;
+}
+
+#Name
+{
+    color: black;
+    margin-left: -1%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+
+#description
+{
+    max-width: 40%;
+    height: 400%;
+    text-align: center;
+    background-color: rgb(133, 128, 122);
+    margin-left: 30%;
+} 
+
+#button{
+  text-align: center;
+  margin-left: 1%;
+}
+
+/* Styling the footer */
+footer {
+  background-color: #777;
+  padding: 25px;
+  text-align: center;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
