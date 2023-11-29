@@ -5,7 +5,7 @@
 
 /* nav menu */
 nav{
-  background-color: #666;
+  background-color: #1F1A38;
   color: white;
   padding: 10px;
   text-align: center;
@@ -55,7 +55,7 @@ body{
     max-width: 40%;
     height: 400%;
     text-align: center;
-    background-color: rgb(133, 128, 122);
+    background-color: #EAD7D1;
     margin-left: 30%;
     font-family: sans-serif; 
 } 
@@ -64,9 +64,6 @@ body{
   text-align: center;
   margin-left: 1%;
   font-family: sans-serif; 
-  padding: 1%;
-  margin: 1%;
-  box-shadow: 0 0 6px;
 }
 
 /* Styling the footer */

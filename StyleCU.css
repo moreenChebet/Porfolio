@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: beige;
+    background-color: aliceblue;
 }
 img{
     max-width: 100%;
@@ -62,7 +62,7 @@ textarea{
 
 /* Styling the footer */
 footer {
-    background-color: #777;
+    background-color: #A3A5A4;
     padding: 10px;
     text-align: center;
     color: white;
